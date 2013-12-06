@@ -1,0 +1,40 @@
+{
+  "name": "hubot-ttc-alerts",
+  "description": "hubot script to display TTC (Toronto transit) alerts",
+  "version": "1.0.0",
+  "author": "gordonc",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gordonc/hubot-ttc-alerts.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/gordonc/hubot-ttc-alerts/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "htmlparser": "1.7.6",
+    "soupselect": "0.2.0"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
