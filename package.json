@@ -12,11 +12,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/gordonc/hubot-ttc-alerts.git"
+    "url": "git://github.com/hubot-scripts/hubot-ttc-alerts.git"
   },
 
   "bugs": {
-    "url": "https://github.com/gordonc/hubot-ttc-alerts/issues"
+    "url": "https://github.com/hubot-scripts/hubot-ttc-alerts/issues"
   },
 
   "dependencies": {
